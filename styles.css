@@ -307,6 +307,8 @@ a:focus-visible, .btn:focus-visible {
 .event-list { list-style: none; padding: 0; margin: 0 0 28px; }
 .event-list li { padding: 10px 0; border-bottom: 1px solid rgba(246, 239, 228, 0.2); }
 .event-list strong { color: var(--gold); font-weight: 600; margin-right: 8px; }
+.event-list a { color: var(--gold); font-weight: 600; }
+.event-list a:hover { color: var(--cream); }
 
 /* Request help */
 .help-grid {
